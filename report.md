@@ -1,0 +1,1 @@
+Hi tutors and Sir. What i learned so far is that there is no special syntax for mark down.I also learnt some syntax for the html. Most of the work i learnt from me trying to do my projects in MC.
